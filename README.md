@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkM3Tron
+- 👋 Hi, I’m [@AkM3Tron] Akash Mishra
 - 👀 I’m interested in ROBOTICS, ARDUINO, IOT, AUTOMATION, SUSTAINABLE ENERGY, DRONES, SPACE and much more...
 - 🌱 I’m currently pursuing Mechatronics Engineering    
 - ✨ I put projects regarding this on my youtube channel and insta handle, do check them out.
